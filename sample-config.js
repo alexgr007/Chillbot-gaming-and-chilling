@@ -17,11 +17,11 @@ module.exports = {
         games: [{
             // — 'type' can be PLAYING STREAMING LISTENING WATCHING COMPETING, you need to provide Twitch URL for STREAMING
             type: "WATCHING",
-            name: "You",
+            name: "Gaming And Chilling ",
             url: ""
         }, {
             type: "PLAYING",
-            name: "A cool game",
+            name: "Gaming And Chilling",
             url: ""
         }],
         // — Status will change every 15 seconds
