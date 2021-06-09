@@ -1,11 +1,11 @@
 {
-    "name": "luna",
+    "name": "Chill Bot",
     "version": "1.0.0",
-    "description": "An adorable Discord.js bot. Free, Open Source and Cross Platform.",
-    "main": "Luna.js",
+    "description": "An adorable Discord bot., Open.",
+    "main": "alex.js",
     "scripts": {
-        "start": "node Luna.js",
-        "watch": "nodemon Luna.js"
+        "start": "node alex.js",
+        "watch": "nodemon alex.js"
     },
     "repository": {
         "type": "git",
@@ -14,10 +14,10 @@
     "keywords": [
         "Discord",
         "Discord.js",
-        "Luna",
+        "chill",
         "Bot"
     ],
-    "author": "Asgarrrr",
+    "author": "alex",
     "license": "ISC",
     "bugs": {
         "url": "https://github.com/Asgarrrr/Luna/issues"
