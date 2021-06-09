@@ -10,7 +10,7 @@ class Skip extends Command {
 
 	constructor( client ) {
 		super( client, {
-			name        : "skip",
+			name        : "fs",
 			description : "Skips the media currently playing. Ignores the repetition of the track",
 			usage       : "skip { Number of elements to skip }",
 			args        : false,
